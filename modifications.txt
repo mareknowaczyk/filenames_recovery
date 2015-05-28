@@ -1,0 +1,6 @@
+m file2.txt
+m cat3/cat4/newfile1.txt
+m cat1/file3.txt
+m cat1/newfile2.txt
+d cat3/cat4/cat5/file6.txt
+d file7.txt

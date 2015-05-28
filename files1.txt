@@ -1,0 +1,7 @@
+file1.txt
+file2.txt
+cat1/file3.txt
+cat1/cat2/file4.txt
+cat1/file5.txt
+cat3/cat4/cat5/file6.txt
+file7.txt

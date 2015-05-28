@@ -1,0 +1,6 @@
+copy
+copy/*
+orig
+orig/*
+md5source.txt
+md5target.txt
